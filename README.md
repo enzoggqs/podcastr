@@ -13,7 +13,7 @@
 
 ![Podcastr preview](./public/app-preview.png)
 
-## Tecnologies
+## Technologies
 
 <div align="center">
   <br />
