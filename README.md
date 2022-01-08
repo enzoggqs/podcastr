@@ -33,10 +33,10 @@ This project was developed using cutting edge front-end technologies.
 
 - You need to install both [Node.js](https://nodejs.org/en/download/) and [Yarn](https://yarnpkg.com/) to run this project.
 
-**Clone the project and access the folder**4
+**Clone the project and access the folder**
 
 ```bash
-$ git clone https://github.com/josepholiveira/podcastr.git && cd podcastr
+$ git clone https://github.com/enzoggqs/podcastr.git && cd podcastr
 ```
 
 **Follow the steps below**
